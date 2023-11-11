@@ -1,0 +1,3 @@
+[FID,NAME,INITIAL,EMAIL,SUBCODE1,SUBCODE2]
+['deepak', 'DEEPAK', 'DK', 'deepak@gmail.com', '4', 'NULL']
+['tarun', 'TARUN SAI', 'TS', 'tarun@gmail.com', '1', 'NULL']

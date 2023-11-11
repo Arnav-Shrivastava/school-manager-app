@@ -1,0 +1,5 @@
+[subcode,subtype,subname]
+['1', 'COMPUTER', 'T']
+['2', 'ENGLISH', 'T']
+['3', 'CHEMISTRY', 'T']
+['4', 'COMPUTER-LAB', 'P']
