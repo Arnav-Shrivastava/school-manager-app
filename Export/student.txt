@@ -1,3 +1,0 @@
-[ADMISSION_ID,NAME,ROLL,SECTION]
-[1, 'AARYAN', 2, 'B']
-[2, 'ARNAV', 2, 'A']
