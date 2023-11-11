@@ -86,3 +86,20 @@ Run the app using:
 
 ```bash
 python main.py
+```
+
+Exported files are saved in:
+```bash
+Export Folder
+```
+Login Details:
+```bash
+Student: username=ADMISSION_ID
+         password=INTEGER VALUE
+
+Faculty: username=FID
+         password=INTEGER VALUE
+
+Admin: username=admin
+       password=admin
+```
