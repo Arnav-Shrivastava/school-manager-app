@@ -1,4 +1,4 @@
-# 🏫 Transcend - School Management App [CLASS 12 PROJECT]
+# 🏫 School Management App [CLASS 12 PROJECT]
 
 Welcome to Transcend, your all-in-one solution for school management! This Python Tkinter app simplifies tasks like adding faculty or students and scheduling timetables.
 
@@ -8,8 +8,8 @@ Welcome to Transcend, your all-in-one solution for school management! This Pytho
 - **Student Management:** Keep track of students, their information, and enrollment details.
 - **Timetable Scheduler:** Plan and organize school timetables efficiently.
 - **Intuitive GUI:** User-friendly interface designed with Tkinter for a smooth experience.
-- **Admin Page:** A admin page to access all the features
-- **Export as CSV TEXT BINARY:** Export Details as a csv,binary or text file.
+- **Admin Page:** An admin page to access all the features
+- **Export as CSV TEXT BINARY:** Export Details as a CSV, binary or text file.
 
 ## 🛠️ Getting Started
 
@@ -40,7 +40,7 @@ Welcome to Transcend, your all-in-one solution for school management! This Pytho
 
 4. Create The Database:
 
-   Create a table called timetable in mysql and create the following tables
+   Create a table called timetable in MySQL and create the following tables
 
    FACULTY
    ```bash
