@@ -2,6 +2,8 @@
 
 Welcome to Transcend, your all-in-one solution for school management! This Python Tkinter app simplifies tasks like adding faculty or students and scheduling timetables.
 
+![tmain](https://github.com/user-attachments/assets/34c8dd74-37d7-4628-991b-9c1e4a367664)
+
 ## ✨ Features
 
 - **Manage Faculty:** Easily add, edit, or remove faculty members.
@@ -103,3 +105,14 @@ Faculty: username=FID
 Admin: username=admin
        password=admin
 ```
+
+Working Project:
+
+![tmain](https://github.com/user-attachments/assets/34c8dd74-37d7-4628-991b-9c1e4a367664)
+![44](https://github.com/user-attachments/assets/b8201c1f-6899-4de4-8455-0f12af1f0a22)
+![22](https://github.com/user-attachments/assets/fd1abb39-746a-4f18-af50-f80fb39b2b0b)
+![33](https://github.com/user-attachments/assets/12b71cd4-8ae8-4983-b4ed-6c9b8358ae09)
+![11](https://github.com/user-attachments/assets/06133aa9-2f0f-42c3-96c7-10954ef3f3f0)
+
+
+
